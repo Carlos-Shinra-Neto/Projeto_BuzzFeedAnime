@@ -1,55 +1,103 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Qual jogador do blue lock voce seria?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Qual a sua arma secreta??",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Não vou contar os segredos da minha alma.", "alias":"C"},
+        {"id": 2, "name":"Habilidades fisicas.", "alias":"K"},
+        {"id": 3, "name":"Meus olhos e cérebro.", "alias":"Y"},
+        {"id": 4, "name":"Eu sou bom em tudo que eu faço.", "alias":"W"},
+        {"id": 5, "name":"Capacidade de Manobra", "alias":"B"}
       ]
     },
-    {
+    { 
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Qual seu papel em um time?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"O atletico.", "alias":"C"},
+        {"id": 2, "name":"O observador.", "alias":"Y"},
+        {"id": 3, "name":"O informante.", "alias":"W"},
+        {"id": 4, "name":"O executor.", "alias":"K"},
+        {"id": 5, "name":"O lider.", "alias":"Y"},
+        {"id": 6, "name":"O estrategista.", "alias": "Y"},
+        {"id": 7, "name":"O apoiador.", "alias": "I"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Geralmente dizem que você é...",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"... timido(a).", "alias":"Y"},
+        {"id": 2, "name":"... um benfeitor(a).", "alias":"I"},
+        {"id": 3, "name":"... egoísta.", "alias":"K"},
+        {"id": 4, "name":"... passional.", "alias":"G"},
+        {"id": 5, "name":"... caprichoso(a).", "alias":"B"},
+        {"id": 6, "name":"... arrogante", "alias":"R"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "O que motiva você?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Quero alcançar o meu sonho.", "alias":"Y"},
+        {"id": 2, "name":"A grandeza do meu destino.", "alias":"K"},
+        {"id": 3, "name":"Quero encarar meus medos.", "alias":"G"},
+        {"id": 4, "name":"Eu sonho em abrir meu proprio caminho.", "alias":"B"},
+        {"id": 5, "name":"O sucesso!", "alias":"I"},
+        {"id": 6, "name":"Eu gosto muito do que eu faço.", "alias":"C"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Qual o seu maior defeito?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Intensidade.", "alias":"K"},
+        {"id": 2, "name":"Indiferença", "alias":"G"},
+        {"id": 3, "name":"Falar em publico", "alias":"I"},
+        {"id": 4, "name":"Insegurança.", "alias":"Y"},
+        {"id": 5, "name":"Perfeccionismo.", "alias":"W"},
+        {"id": 6, "name":"Ser linguarudo.", "alias":"B"},
+        {"id": 7, "name":"Impulsividade.", "alias": "B"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Você tem um jogo difícil pela frente. Qual o seu plano?",
+      "options":[
+        {"id": 1, "name":"Nada ficará no meu caminho.", "alias":"K"},
+        {"id": 2, "name":"Que isso vá despertar o monstro dentro de mim.", "alias":"B"},
+        {"id": 3, "name":"Farei alguns estudos e pesquisas.", "alias":"Y"},
+        {"id": 4, "name":"Não há nada que não possa ser encarado com a mentalidade certa.", "alias":"G"},
+        {"id": 5, "name":"Irei negociar.", "alias":"W"},
+        {"id": 6, "name":"Irei proteger a mim mesmo.", "alias":"I"},
+        {"id": 7, "name":"AQUI VOU EU!", "alias": "R"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Escolha uma superpotência para ajudá-lo no campo?",
+      "options":[
+        {"id": 1, "name":"Força sobre-humana.", "alias":"K"},
+        {"id": 2, "name":"Super velocidade.", "alias":"C"},
+        {"id": 3, "name":"Manipulação de área.", "alias":"Y"},
+        {"id": 4, "name":"Elasticidade.", "alias":"G"},
+        {"id": 5, "name":"Levitação.", "alias":"W"},
+        {"id": 6, "name":"Negação de poder.", "alias":"I"},
+        {"id": 7, "name":"Absorção de habilidade.", "alias": "R"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "B": "Você muito provavelmente seria Meguro Bachira.",
+    "G": "Você muito provavelmente seria Gin Gagamaru.",
+    "Y": "Você muito provavelmente seria Yoichi Isagi.",
+    "W": "Você muito provavelmente seria Wataru Kuon.",
+    "R": "Você muito provavelmente seria Jingo Raichi.",
+    "C": "Você muito provavelmente seria Hyoma Chigiri.",
+    "K": "Você muito provavelmente seria Rensuke Kunigami.",
+    "I": "Você muito provavelmente seria Gurimu Igarashi. "
+    
   }
 }

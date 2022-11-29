@@ -25,7 +25,7 @@
     border-radius: 24px;
     background-color: #1f1f1f;
     width: 100%;
-    height: 200px;
+    height: 130px;
     font-size: 20px;
     font-family: 'Segoe UI';
     margin-bottom: 20px;
@@ -37,12 +37,24 @@
     justify-content: center;
     margin: auto;
 }
+.quizz_restart{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.quizz_backStep{
+    display: flex;
+    justify-content: center;
+}
+
 
 .btn-option{
     background-color: transparent;
     border-radius: 50px;
     border: 2px solid #00ff1e;
-    width: 25%;
+    width: 70%;
     display: inline-block;
     cursor: pointer;
     color: white;
@@ -50,23 +62,43 @@
     font-size: 17px;
     padding: 16px 32px;
     text-decoration: none;
+    margin: 10px;
+}
+.btn-restart, .backStep{
+    background-color: transparent;
+    border-radius: 50px;
+    border: 2px solid #00ff1e;
+    width: 20%;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-family: 'Arial';
+    font-size: 17px;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 20px;  
 }
 
 .btn-option:hover{
-    background-color: rgb(50, 207, 50);
+    background-color: rgb(52, 82, 52);
 }
 
-.btn-option:active{
+.btn-restart:hover, .backStep:hover{
+    background-color:  rgb(52, 82, 52);
+}
+
+.btn-option:active, .btn-restart:active, .backStep:active{
     background-color: #00ff1e;
     position: relative;
     top: 3px;
 }
 
-.quizz_results{
+.quizz_results{ 
+    margin-top: 20px;
     width: 100%;
     height: 350px;
     background-color: #07000e;
-    border-radius: 10px;
+    border-radius: 24px;
     padding: 30px;
     display: flex;
     flex-direction: column;
