@@ -18,11 +18,9 @@
       "options":[
         {"id": 1, "name":"O atletico.", "alias":"C"},
         {"id": 2, "name":"O observador.", "alias":"Y"},
-        {"id": 3, "name":"O informante.", "alias":"W"},
-        {"id": 4, "name":"O executor.", "alias":"K"},
-        {"id": 5, "name":"O lider.", "alias":"Y"},
-        {"id": 6, "name":"O estrategista.", "alias": "Y"},
-        {"id": 7, "name":"O apoiador.", "alias": "I"}
+        {"id": 3, "name":"O executor.", "alias":"K"},
+        {"id": 4, "name":"O lider.", "alias":"Y"},
+        {"id": 5, "name":"O estrategista.", "alias": "Y"}
       ]
     },
     {
@@ -32,9 +30,8 @@
         {"id": 1, "name":"... timido(a).", "alias":"Y"},
         {"id": 2, "name":"... um benfeitor(a).", "alias":"I"},
         {"id": 3, "name":"... egoísta.", "alias":"K"},
-        {"id": 4, "name":"... passional.", "alias":"G"},
-        {"id": 5, "name":"... caprichoso(a).", "alias":"B"},
-        {"id": 6, "name":"... arrogante", "alias":"R"}
+        {"id": 4, "name":"... caprichoso(a).", "alias":"B"},
+        {"id": 5, "name":"... arrogante", "alias":"R"}
       ]
     },
     {
@@ -45,8 +42,7 @@
         {"id": 2, "name":"A grandeza do meu destino.", "alias":"K"},
         {"id": 3, "name":"Quero encarar meus medos.", "alias":"G"},
         {"id": 4, "name":"Eu sonho em abrir meu proprio caminho.", "alias":"B"},
-        {"id": 5, "name":"O sucesso!", "alias":"I"},
-        {"id": 6, "name":"Eu gosto muito do que eu faço.", "alias":"C"}
+        {"id": 5, "name":"O sucesso!", "alias":"C"}
       ]
     },
     {
@@ -55,11 +51,9 @@
       "options":[
         {"id": 1, "name":"Intensidade.", "alias":"K"},
         {"id": 2, "name":"Indiferença", "alias":"G"},
-        {"id": 3, "name":"Falar em publico", "alias":"I"},
-        {"id": 4, "name":"Insegurança.", "alias":"Y"},
-        {"id": 5, "name":"Perfeccionismo.", "alias":"W"},
-        {"id": 6, "name":"Ser linguarudo.", "alias":"B"},
-        {"id": 7, "name":"Impulsividade.", "alias": "B"}
+        {"id": 3, "name":"Insegurança.", "alias":"Y"},
+        {"id": 4, "name":"Perfeccionismo.", "alias":"W"},
+        {"id": 5, "name":"Impulsividade.", "alias": "B"}
       ]
     },
     {
@@ -70,9 +64,7 @@
         {"id": 2, "name":"Que isso vá despertar o monstro dentro de mim.", "alias":"B"},
         {"id": 3, "name":"Farei alguns estudos e pesquisas.", "alias":"Y"},
         {"id": 4, "name":"Não há nada que não possa ser encarado com a mentalidade certa.", "alias":"G"},
-        {"id": 5, "name":"Irei negociar.", "alias":"W"},
-        {"id": 6, "name":"Irei proteger a mim mesmo.", "alias":"I"},
-        {"id": 7, "name":"AQUI VOU EU!", "alias": "R"}
+        {"id": 5, "name":"Irei negociar.", "alias":"W"}
       ]
     },
     {
@@ -83,9 +75,7 @@
         {"id": 2, "name":"Super velocidade.", "alias":"C"},
         {"id": 3, "name":"Manipulação de área.", "alias":"Y"},
         {"id": 4, "name":"Elasticidade.", "alias":"G"},
-        {"id": 5, "name":"Levitação.", "alias":"W"},
-        {"id": 6, "name":"Negação de poder.", "alias":"I"},
-        {"id": 7, "name":"Absorção de habilidade.", "alias": "R"}
+        {"id": 5, "name":"Levitação.", "alias":"W"}
       ]
     }
   ],
