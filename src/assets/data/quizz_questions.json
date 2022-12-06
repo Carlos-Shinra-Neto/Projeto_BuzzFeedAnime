@@ -19,8 +19,8 @@
         {"id": 1, "name":"O atletico.", "alias":"C"},
         {"id": 2, "name":"O observador.", "alias":"Y"},
         {"id": 3, "name":"O executor.", "alias":"K"},
-        {"id": 4, "name":"O lider.", "alias":"Y"},
-        {"id": 5, "name":"O estrategista.", "alias": "Y"}
+        {"id": 4, "name":"O lider.", "alias":"W"},
+        {"id": 5, "name":"O louco.", "alias": "B"}
       ]
     },
     {
@@ -28,7 +28,7 @@
       "question": "Geralmente dizem que você é...",
       "options":[
         {"id": 1, "name":"... timido(a).", "alias":"Y"},
-        {"id": 2, "name":"... um benfeitor(a).", "alias":"I"},
+        {"id": 2, "name":"... calmo(a).", "alias":"G"},
         {"id": 3, "name":"... egoísta.", "alias":"K"},
         {"id": 4, "name":"... caprichoso(a).", "alias":"B"},
         {"id": 5, "name":"... arrogante", "alias":"R"}
@@ -80,14 +80,12 @@
     }
   ],
   "results":{
-    "B": "Você muito provavelmente seria Meguro Bachira.",
-    "G": "Você muito provavelmente seria Gin Gagamaru.",
-    "Y": "Você muito provavelmente seria Yoichi Isagi.",
-    "W": "Você muito provavelmente seria Wataru Kuon.",
-    "R": "Você muito provavelmente seria Jingo Raichi.",
-    "C": "Você muito provavelmente seria Hyoma Chigiri.",
-    "K": "Você muito provavelmente seria Rensuke Kunigami.",
-    "I": "Você muito provavelmente seria Gurimu Igarashi. "
-    
+    "B": "Meguru Bachira (蜂ばち楽ら廻めぐる Bachira Meguru) É um candidato ao Blue Lock Project, que atualmente joga como atacante do FC Barcha. Bachira é um atacante caprichoso que joga seguindo seus instintos e quando chegou ao Blue Lock ele era um membro do Time Z durante a Primeira Seleção. Seu principal objetivo era encontrar rivais de futebol para jogar, que também têm um monstro dentro de si, mas que depois muda para se tornar o melhor atacante do mundo quando supera o trauma da infância.",
+    "G": "Gin Gagamaru (我牙丸 吟 Gagamaru Gin) é um candidato ao Blue Lock Project, que atualmente joga como goleiro do Bastard München. Gagamaru é um atacante que aspira ser o melhor do mundo junto com os demais do Blue Lock. Quando chegou pela primeira vez ao Blue Lock, ele era um membro do Time Z durante a Primeira Seleção. Antes do início da Terceira Seleção, ele classificou-se em 88º, e posteriormente estreou como goleiro do time Blue Lock Eleven contra o Japão Sub-20..",
+    "Y": "Yoichi Isagi (潔いさぎ世よ一いち Isagi Yoichi) é o protagonista da série Blue Lock. Isagi é um estudante do segundo ano do ensino médio, que já jogou como atacante do time de futebol da Ichinan High School. Quando ele chegou às instalações do Blue Lock, ele se tornou um membro do Time Z para a Primeira Seleção. Seu principal objetivo é se tornar o melhor atacante do mundo. Depois que o Blue Lock Eleven jogou contra o Japão Sub-20, Isagi é classificado como um dos melhores jogadores do Blue Lock e joga como meio-campista ofensivo no Bastard München durante a Neo Egoist League.",
+    "W": "Wataru Kuon (久遠 渡, Kuon Wataru) é um ex-membro do Time Z. Kuon traiu a equipe no meio da Primeira Seleção no interesse de sua própria sobrevivência singular. Mais tarde, ele foi um fator na vitória do Time Z no último jogo da Seleção, quando jogou fora seu interesse próprio em favor de seu time ao ver como eles eram incríveis contra o time mais forte do estrato.",
+    "R": "Jingo Raichi (雷市 陣吾 Raichi Jingo) É um candidato ao Blue Lock Project, que atualmente joga pelo Bastard München. Ao chegar pela primeira vez em Blue Lock, Raichi era um membro do Time Z durante a Primeira Seleção. Ele passou pela Segunda Seleção como parte da 6ª Equipe Clear.",
+    "C": "Hyoma Chigiri (千切 豹馬 Chigiri Hyōma) É um candidato ao Blue Lock Project, que atualmente joga como ala esquerdo do Manshine City. Chigiri é um atacante prodígio que foi acorrentado por uma lesão na perna no passado, mas abandonou seus medos enquanto estava no Blue Lock para poder continuar jogando futebol de todo o coração. Ao chegar pela primeira vez ao Blue Lock, Chigiri era membro do Time Z. Chigiri passou metade da Primeira Seleção evitando participar ou mantendo-a no mínimo, mas quando foi motivado por Isagi no terceiro jogo do Time Z, ele decidiu abrir mão de seu medo e jogar futebol para se tornar o melhor atacante do mundo como seus rivais.",
+    "K": "Rensuke Kunigami (國神 錬介 Kunigami Rensuke) É um candidato ao Blue Lock Project, que atualmente joga pelo Bastard München da Alemanha. Ele é um atacante de sangue quente cujo principal objetivo é se tornar o melhor atacante do mundo e, por sua vez, um super-herói do futebol. Ao chegar pela primeira vez no Blue Lock, ele era membro do Time Z durante a Primeira Seleção. Ele ficou em 50º lugar entre os 300 atacantes originais escolhidos para fazer parte do Projeto Blue Lock quando foi eliminado do Blue Lock durante os jogos finais da Segunda Seleção por Ryusei Shidou, mas em vez de deixar a instalação, ele entrou em um misterioso Wild Card que estava aberta para ele." 
   }
 }
